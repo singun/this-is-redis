@@ -1,0 +1,1 @@
+[이것이 레디스다 : 초고속 읽기 쓰기를 제공하는 인메모리 기반 NoSQL, Redis](http://www.hanbit.co.kr/store/books/look.php?p_code=B7942124016)
